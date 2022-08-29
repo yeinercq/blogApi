@@ -12,4 +12,11 @@ FactoryBot.define do
     }
     user
   end
+
+  factory :publised_post, class: 'Post' do
+    title { Faker::Lorem.sentence }
+    content { Faker::Lorem.paragraph }
+    published { true }
+    user
+  end
 end
