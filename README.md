@@ -1,24 +1,13 @@
-# README
+# BlogApi
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple API for practice in Ruby on Rails
 
-Things you may want to cover:
+# Prerequisites
 
-* Ruby version
+The setups steps expect following tools installed on the system.
 
-* System dependencies
+    Github
+    Ruby [3.1.2]
+    Rails [7.0.3]
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Check out the repository
